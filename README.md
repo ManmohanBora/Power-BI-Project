@@ -6,7 +6,7 @@ This Power BI project, **Sales Data Analysis**, provides comprehensive insights 
 ## 📂 Repository Structure
 - `Sales Data.pbix` - The Power BI report file containing all visualizations and datasets.
 - `Store Data.xlsx` - The dataset used in this project, containing store sales, product details, and customer information.
-- `Dataset/` - (If applicable) Source datasets used in the report.
+- `Dataset/` - Source datasets used in the report.
 - `Images/` - Screenshots of key reports and dashboards.
 - `Documentation/` - Additional explanations, methodology, or user guides.
 
@@ -15,14 +15,14 @@ This Power BI project, **Sales Data Analysis**, provides comprehensive insights 
 - **Power Query (M language)** – Data extraction and transformation
 - **DAX (Data Analysis Expressions)** – Advanced calculations and measures
 - **Excel** – Data preprocessing and integration
-- **Data Sources** – Store sales dataset (`Store Data.xlsx`), [Specify additional sources if needed]
+- **Data Sources** – Store sales dataset (`Sales Data.xlsx`)
 
 ## 📊 Key Features
 - **Sales Performance Analysis** – Revenue, profit, and growth trends
 - **Customer Segmentation** – Demographics and purchasing behavior
 - **Product Insights** – Best-selling products and seasonal trends
 - **Interactive Dashboards** – Filters, slicers, and drill-through functionality
-- **Automated Data Refresh** – Up-to-date insights (if connected to live data sources)
+- **Automated Data Refresh** – Up-to-date insights
 
 ## 📈 Data Analysis Used
 This project leverages the following data analysis techniques:
@@ -41,7 +41,7 @@ This project leverages the following data analysis techniques:
 ### Steps to Use
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
+   https://github.com/ManmohanBora/Sales-Data-Analysis.git
    ```
 2. **Open the `.pbix` file** in Power BI Desktop.
 3. **Connect to your data sources** if required.
@@ -53,8 +53,6 @@ This project leverages the following data analysis techniques:
 ## 🔗 Demo & Live Report
 - **Power BI Service Link:** [Provide a link if hosted online]
 
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
