@@ -64,8 +64,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📬 Contact
 For queries or suggestions, feel free to reach out:
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/your-repository/issues)
-- **Email**: [your.email@example.com]
+- **GitHub Issues**: [Open an issue](https://github.com/ManmohanBora/Sales-Data-Analysis/issues)
 
 ---
 🚀 *Empowering decision-making with data-driven insights!*
