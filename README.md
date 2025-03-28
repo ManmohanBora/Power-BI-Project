@@ -48,10 +48,10 @@ This project leverages the following data analysis techniques:
 4. **Refresh the dataset** and explore the reports.
 
 ## 📸 Screenshots
-![Dashboard Preview](Images/dashboard-preview.png) *(Replace with actual screenshot)*
-
-## 🔗 Demo & Live Report
-- **Power BI Service Link:** [Provide a link if hosted online]
+![Screenshot 2025-03-28 112810](https://github.com/user-attachments/assets/c9ceb22d-96cc-4fe5-8e05-aa17802236b4)
+![Screenshot 2025-03-28 112905](https://github.com/user-attachments/assets/4ac93389-51fb-4357-a70b-4d3b2907ca61)
+![Screenshot 2025-03-28 112941](https://github.com/user-attachments/assets/c1c628e9-9bbf-4c58-92cb-51e7720d5e2c)
+![Screenshot 2025-03-28 113012](https://github.com/user-attachments/assets/40312b70-9ee7-4728-bd9f-412ce2f13d9f)
 
 
 ## 🤝 Contributing
